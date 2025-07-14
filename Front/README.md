@@ -23,7 +23,7 @@ Aplicación frontend para la gestión de tareas. Construida con **React**, **Vit
 2. Crear un archivo `.env` en la raíz con el siguiente contenido:
 
    ```env
-   VITE_API_URL=http://localhost:3600/api/tasks
+   VITE_API_URL=http://localhost:3000/api/tasks
    ```
 
 3. Iniciar la aplicación en desarrollo:
