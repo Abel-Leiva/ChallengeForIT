@@ -23,7 +23,7 @@ API REST para la gestión de tareas. Construida con **Node.js**, **Express**, **
 2. Crear un archivo `.env` en la raíz con el siguiente contenido:
 
    ```env
-   PORT=3600
+   PORT=3000
    DATABASE_URL="file:./dev.db"
    ```
 
