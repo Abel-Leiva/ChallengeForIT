@@ -27,13 +27,8 @@ API REST para la gestión de tareas. Construida con **Node.js**, **Express**, **
    DATABASE_URL="file:./dev.db"
    ```
 
-3. Inicializar la base de datos con Prisma:
 
-   ```bash
-   npx prisma db push
-   ```
-
-4. Iniciar el servidor:
+3. Iniciar el servidor:
 
    ```bash
    npm run dev
